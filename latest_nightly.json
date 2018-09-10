@@ -1,13 +1,13 @@
 {
-  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/releases/12818894",
-  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/releases/12818894/assets",
-  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-binaries/releases/12818894/assets{?name,label}",
-  "html_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/tag/jdk10u-2018-09-10-15-21",
-  "id": 12818894,
-  "node_id": "MDc6UmVsZWFzZTEyODE4ODk0",
-  "tag_name": "jdk10u-2018-09-10-15-21",
+  "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/releases/12819454",
+  "assets_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/releases/12819454/assets",
+  "upload_url": "https://uploads.github.com/repos/AdoptOpenJDK/openjdk10-binaries/releases/12819454/assets{?name,label}",
+  "html_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/tag/jdk10u-2018-09-10-15-46",
+  "id": 12819454,
+  "node_id": "MDc6UmVsZWFzZTEyODE5NDU0",
+  "tag_name": "jdk10u-2018-09-10-15-46",
   "target_commitish": "master",
-  "name": "jdk10u-2018-09-10-15-21",
+  "name": "jdk10u-2018-09-10-15-46",
   "draft": false,
   "author": {
     "login": "adoptopenjdk-github-bot",
@@ -30,14 +30,14 @@
     "site_admin": false
   },
   "prerelease": true,
-  "created_at": "2018-09-10T11:39:33Z",
-  "published_at": "2018-09-10T15:21:51Z",
+  "created_at": "2018-09-10T15:22:10Z",
+  "published_at": "2018-09-10T15:46:15Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/releases/assets/8607664",
-      "id": 8607664,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDg2MDc2NjQ=",
-      "name": "OpenJDK10U-jre_x64_mac_hotspot_2018-09-10-15-21.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/releases/assets/8608106",
+      "id": 8608106,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDg2MDgxMDY=",
+      "name": "OpenJDK10U-jre_x64_mac_hotspot_2018-09-10-15-46.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -61,17 +61,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 38959909,
+      "size": 38959880,
       "download_count": 0,
-      "created_at": "2018-09-10T15:21:51Z",
-      "updated_at": "2018-09-10T15:21:54Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-10-15-21/OpenJDK10U-jre_x64_mac_hotspot_2018-09-10-15-21.tar.gz"
+      "created_at": "2018-09-10T15:46:15Z",
+      "updated_at": "2018-09-10T15:46:18Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-10-15-46/OpenJDK10U-jre_x64_mac_hotspot_2018-09-10-15-46.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/releases/assets/8607668",
-      "id": 8607668,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDg2MDc2Njg=",
-      "name": "OpenJDK10U-jre_x64_mac_hotspot_2018-09-10-15-21.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/releases/assets/8608107",
+      "id": 8608107,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDg2MDgxMDc=",
+      "name": "OpenJDK10U-jre_x64_mac_hotspot_2018-09-10-15-46.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -97,15 +97,15 @@
       "state": "uploaded",
       "size": 121,
       "download_count": 0,
-      "created_at": "2018-09-10T15:21:54Z",
-      "updated_at": "2018-09-10T15:21:54Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-10-15-21/OpenJDK10U-jre_x64_mac_hotspot_2018-09-10-15-21.tar.gz.sha256.txt"
+      "created_at": "2018-09-10T15:46:19Z",
+      "updated_at": "2018-09-10T15:46:19Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-10-15-46/OpenJDK10U-jre_x64_mac_hotspot_2018-09-10-15-46.tar.gz.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/releases/assets/8607669",
-      "id": 8607669,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDg2MDc2Njk=",
-      "name": "OpenJDK10U_x64_mac_hotspot_2018-09-10-15-21.tar.gz",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/releases/assets/8608108",
+      "id": 8608108,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDg2MDgxMDg=",
+      "name": "OpenJDK10U_x64_mac_hotspot_2018-09-10-15-46.tar.gz",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -129,17 +129,17 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 201752111,
+      "size": 201753225,
       "download_count": 0,
-      "created_at": "2018-09-10T15:21:55Z",
-      "updated_at": "2018-09-10T15:22:06Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-10-15-21/OpenJDK10U_x64_mac_hotspot_2018-09-10-15-21.tar.gz"
+      "created_at": "2018-09-10T15:46:20Z",
+      "updated_at": "2018-09-10T15:46:29Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-10-15-46/OpenJDK10U_x64_mac_hotspot_2018-09-10-15-46.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/releases/assets/8607676",
-      "id": 8607676,
-      "node_id": "MDEyOlJlbGVhc2VBc3NldDg2MDc2NzY=",
-      "name": "OpenJDK10U_x64_mac_hotspot_2018-09-10-15-21.tar.gz.sha256.txt",
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/releases/assets/8608110",
+      "id": 8608110,
+      "node_id": "MDEyOlJlbGVhc2VBc3NldDg2MDgxMTA=",
+      "name": "OpenJDK10U_x64_mac_hotspot_2018-09-10-15-46.tar.gz.sha256.txt",
       "label": "",
       "uploader": {
         "login": "adoptopenjdk-github-bot",
@@ -165,12 +165,12 @@
       "state": "uploaded",
       "size": 117,
       "download_count": 0,
-      "created_at": "2018-09-10T15:22:07Z",
-      "updated_at": "2018-09-10T15:22:07Z",
-      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-10-15-21/OpenJDK10U_x64_mac_hotspot_2018-09-10-15-21.tar.gz.sha256.txt"
+      "created_at": "2018-09-10T15:46:30Z",
+      "updated_at": "2018-09-10T15:46:30Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-10-15-46/OpenJDK10U_x64_mac_hotspot_2018-09-10-15-46.tar.gz.sha256.txt"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/tarball/jdk10u-2018-09-10-15-21",
-  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/zipball/jdk10u-2018-09-10-15-21",
+  "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/tarball/jdk10u-2018-09-10-15-46",
+  "zipball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk10-binaries/zipball/jdk10u-2018-09-10-15-46",
   "body": "Nightly Build of jdk10u"
 }
