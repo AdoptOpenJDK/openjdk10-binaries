@@ -63,7 +63,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 188846310,
-        "download_count": 0,
+        "download_count": 67,
         "created_at": "2018-09-29T10:32:50Z",
         "updated_at": "2018-09-29T10:33:00Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_aarch64_linux_hotspot_2018-09-29-10-32.tar.gz"
@@ -97,7 +97,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 123,
-        "download_count": 0,
+        "download_count": 345,
         "created_at": "2018-09-29T10:33:00Z",
         "updated_at": "2018-09-29T10:33:00Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_aarch64_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt"
@@ -131,7 +131,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 37625449,
-        "download_count": 0,
+        "download_count": 4,
         "created_at": "2018-09-29T10:33:01Z",
         "updated_at": "2018-09-29T10:33:03Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_aarch64_linux_hotspot_2018-09-29-10-32.tar.gz"
@@ -539,7 +539,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 42232041,
-        "download_count": 0,
+        "download_count": 11,
         "created_at": "2018-09-29T10:33:24Z",
         "updated_at": "2018-09-29T10:33:26Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_x64_linux_hotspot_2018-09-29-10-32.tar.gz"
@@ -607,7 +607,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 43962551,
-        "download_count": 0,
+        "download_count": 5,
         "created_at": "2018-09-29T10:33:27Z",
         "updated_at": "2018-09-29T10:33:30Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_x64_linux_openj9_2018-09-29-10-32.tar.gz"
@@ -743,7 +743,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 64884544,
-        "download_count": 0,
+        "download_count": 7,
         "created_at": "2018-09-29T10:33:34Z",
         "updated_at": "2018-09-29T10:33:38Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_x64_windows_hotspot_2018-09-29-10-32.zip"
@@ -777,7 +777,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 122,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2018-09-29T10:33:39Z",
         "updated_at": "2018-09-29T10:33:39Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_x64_windows_hotspot_2018-09-29-10-32.zip.sha256.txt"
@@ -879,7 +879,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 280882072,
-        "download_count": 0,
+        "download_count": 4,
         "created_at": "2018-09-29T10:33:50Z",
         "updated_at": "2018-09-29T10:34:02Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_ppc64_aix_openj9_2018-09-29-10-32.tar.gz"
@@ -947,7 +947,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 188543036,
-        "download_count": 0,
+        "download_count": 60,
         "created_at": "2018-09-29T10:34:03Z",
         "updated_at": "2018-09-29T10:34:12Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_ppc64le_linux_hotspot_2018-09-29-10-32.tar.gz"
@@ -981,7 +981,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 123,
-        "download_count": 0,
+        "download_count": 344,
         "created_at": "2018-09-29T10:34:12Z",
         "updated_at": "2018-09-29T10:34:13Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_ppc64le_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt"
@@ -1015,7 +1015,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 206832394,
-        "download_count": 0,
+        "download_count": 58,
         "created_at": "2018-09-29T10:34:13Z",
         "updated_at": "2018-09-29T10:34:23Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_ppc64le_linux_openj9_2018-09-29-10-32.tar.gz"
@@ -1049,7 +1049,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 122,
-        "download_count": 0,
+        "download_count": 340,
         "created_at": "2018-09-29T10:34:23Z",
         "updated_at": "2018-09-29T10:34:24Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_ppc64le_linux_openj9_2018-09-29-10-32.tar.gz.sha256.txt"
@@ -1083,7 +1083,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 191623302,
-        "download_count": 0,
+        "download_count": 77,
         "created_at": "2018-09-29T10:34:24Z",
         "updated_at": "2018-09-29T10:34:33Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_s390x_linux_hotspot_2018-09-29-10-32.tar.gz"
@@ -1117,7 +1117,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 121,
-        "download_count": 0,
+        "download_count": 344,
         "created_at": "2018-09-29T10:34:34Z",
         "updated_at": "2018-09-29T10:34:34Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_s390x_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt"
@@ -1151,7 +1151,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 206312208,
-        "download_count": 0,
+        "download_count": 149,
         "created_at": "2018-09-29T10:34:35Z",
         "updated_at": "2018-09-29T10:34:45Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_linux_hotspot_2018-09-29-10-32.tar.gz"
@@ -1185,7 +1185,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 119,
-        "download_count": 0,
+        "download_count": 344,
         "created_at": "2018-09-29T10:34:46Z",
         "updated_at": "2018-09-29T10:34:46Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt"
@@ -1219,7 +1219,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 209874746,
-        "download_count": 0,
+        "download_count": 159,
         "created_at": "2018-09-29T10:34:46Z",
         "updated_at": "2018-09-29T10:34:59Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_linux_openj9_2018-09-29-10-32.tar.gz"
@@ -1253,7 +1253,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 118,
-        "download_count": 0,
+        "download_count": 341,
         "created_at": "2018-09-29T10:34:59Z",
         "updated_at": "2018-09-29T10:34:59Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_linux_openj9_2018-09-29-10-32.tar.gz.sha256.txt"
@@ -1287,7 +1287,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 209855956,
-        "download_count": 0,
+        "download_count": 10,
         "created_at": "2018-09-29T10:34:59Z",
         "updated_at": "2018-09-29T10:35:10Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_linux_openj9_linuxXL_2018-09-29-10-32.tar.gz"
@@ -1355,7 +1355,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 230938190,
-        "download_count": 0,
+        "download_count": 31,
         "created_at": "2018-09-29T10:35:11Z",
         "updated_at": "2018-09-29T10:35:24Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_windows_hotspot_2018-09-29-10-32.zip"
@@ -1389,7 +1389,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 118,
-        "download_count": 0,
+        "download_count": 2,
         "created_at": "2018-09-29T10:35:24Z",
         "updated_at": "2018-09-29T10:35:24Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_windows_hotspot_2018-09-29-10-32.zip.sha256.txt"
@@ -1837,7 +1837,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 126,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-09-29T10:29:07Z",
         "updated_at": "2018-09-29T10:29:07Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-28/OpenJDK10U-jre_ppc64le_linux_openj9_2018-09-29-10-28.tar.gz.sha256.txt"
@@ -2075,7 +2075,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 64885777,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-09-29T10:29:19Z",
         "updated_at": "2018-09-29T10:29:23Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-28/OpenJDK10U-jre_x64_windows_hotspot_2018-09-29-10-28.zip"
@@ -3543,7 +3543,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 206313522,
-        "download_count": 19,
+        "download_count": 20,
         "created_at": "2018-09-27T08:45:36Z",
         "updated_at": "2018-09-27T08:45:49Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-27-08-44/OpenJDK10U_x64_linux_hotspot_2018-09-27-08-44.tar.gz"
@@ -4739,7 +4739,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 211866133,
-        "download_count": 6,
+        "download_count": 72,
         "created_at": "2018-09-26T18:24:08Z",
         "updated_at": "2018-09-26T18:24:20Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-26-18-22/OpenJDK10U_s390x_linux_openj9_2018-09-26-18-22.tar.gz"
@@ -4773,7 +4773,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 120,
-        "download_count": 27,
+        "download_count": 367,
         "created_at": "2018-09-26T18:24:21Z",
         "updated_at": "2018-09-26T18:24:21Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-26-18-22/OpenJDK10U_s390x_linux_openj9_2018-09-26-18-22.tar.gz.sha256.txt"
@@ -8979,7 +8979,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 43965952,
-        "download_count": 3,
+        "download_count": 7,
         "created_at": "2018-09-21T20:55:56Z",
         "updated_at": "2018-09-21T20:55:59Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-21-20-55/OpenJDK10U-jre_x64_linux_openj9_2018-09-21-20-55.tar.gz"
@@ -13695,7 +13695,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 38959922,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-09-17T09:19:59Z",
         "updated_at": "2018-09-17T09:20:02Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-17-09-19/OpenJDK10U-jre_x64_mac_hotspot_2018-09-17-09-19.tar.gz"
@@ -14239,7 +14239,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 201753140,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2018-09-17T09:21:17Z",
         "updated_at": "2018-09-17T09:21:28Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-17-09-19/OpenJDK10U_x64_mac_hotspot_2018-09-17-09-19.tar.gz"
@@ -15027,7 +15027,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 48482861,
-        "download_count": 28,
+        "download_count": 33,
         "created_at": "2018-09-15T22:41:40Z",
         "updated_at": "2018-09-15T22:41:43Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-15-22-40/OpenJDK10U-jre_x64_windows_openj9_2018-09-15-22-40.zip"
@@ -15571,7 +15571,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 216430688,
-        "download_count": 32,
+        "download_count": 35,
         "created_at": "2018-09-15T22:43:14Z",
         "updated_at": "2018-09-15T22:43:24Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-15-22-40/OpenJDK10U_x64_windows_openj9_2018-09-15-22-40.zip"
@@ -15605,7 +15605,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 117,
-        "download_count": 1,
+        "download_count": 3,
         "created_at": "2018-09-15T22:43:25Z",
         "updated_at": "2018-09-15T22:43:25Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-15-22-40/OpenJDK10U_x64_windows_openj9_2018-09-15-22-40.zip.sha256.txt"
@@ -17555,7 +17555,7 @@
         "content_type": "application/zip",
         "state": "uploaded",
         "size": 216431403,
-        "download_count": 7,
+        "download_count": 8,
         "created_at": "2018-09-13T22:39:37Z",
         "updated_at": "2018-09-13T22:39:50Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-13-22-38/OpenJDK10U_x64_windows_openj9_2018-09-13-22-38.zip"
@@ -17589,7 +17589,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 117,
-        "download_count": 1,
+        "download_count": 2,
         "created_at": "2018-09-13T22:39:50Z",
         "updated_at": "2018-09-13T22:39:50Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-13-22-38/OpenJDK10U_x64_windows_openj9_2018-09-13-22-38.zip.sha256.txt"
